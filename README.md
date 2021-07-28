@@ -5,5 +5,6 @@
 ```
 面试题博客: http://interview.poetries.top/
 解锁码: poetry001
+音乐可视化: https://github.com/Hocoa/AudioPlayer
 
 ```
