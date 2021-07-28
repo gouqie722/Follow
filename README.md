@@ -6,5 +6,6 @@
 面试题博客: http://interview.poetries.top/
 解锁码: poetry001
 音乐可视化: https://github.com/Hocoa/AudioPlayer
+博客[程序员成长指北]: http://www.inode.club/
 
 ```
