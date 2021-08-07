@@ -8,5 +8,6 @@
 音乐可视化: https://github.com/Hocoa/AudioPlayer
 博客[程序员成长指北]: http://www.inode.club/
 WebGL: https://webglfundamentals.org/webgl/lessons/zh_cn/
+自定义工具函数库: https://zxfjd3g.github.io/atguigu_utils-docs/
 
 ```
