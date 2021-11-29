@@ -1,6 +1,7 @@
 # Follow
 ## 随手笔记 记录一些零碎知识点
 
+> github push问题 https://blog.csdn.net/weixin_41010198/article/details/119698015
 
 ```
 服务器登录token: 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
