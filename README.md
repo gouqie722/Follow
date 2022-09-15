@@ -18,3 +18,7 @@ JS纯前端实现audio音频剪裁剪切复制播放与上传 https://www.zhangx
 招聘 https://ciderglobal.jobs.feishu.cn/index/?keywords=&category=6791702736615426317%2C6791702736615344397&location=CT_45&project=&type=&job_hot_flag=&current=1&limit=10
 
 ```
+
+```
+canvas画图框架: konva
+```
