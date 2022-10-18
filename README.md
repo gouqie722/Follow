@@ -20,5 +20,5 @@ JS纯前端实现audio音频剪裁剪切复制播放与上传 https://www.zhangx
 ```
 
 ```
-canvas画图框架: konva
+canvas画图框架: konva, fabricjs => http://fabricjs.com/docs/github
 ```
